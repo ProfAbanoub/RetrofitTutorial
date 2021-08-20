@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AndroidGPA Tutorial</string>
+    <color name="red">#f00000</color>
+</resources>
